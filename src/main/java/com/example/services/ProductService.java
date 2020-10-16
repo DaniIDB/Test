@@ -35,7 +35,6 @@ public class ProductService {
 	}
 	
 	public Boolean getProductId(int id) {
-
 		List<Productos> list = new ArrayList<>();
 		list = rest.findByIdProducto(id);
 		return (list.isEmpty());
