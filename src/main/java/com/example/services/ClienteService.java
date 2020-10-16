@@ -53,6 +53,11 @@ public class ClienteService {
 //		adsasdadasddddddd
 //		fgjk r wer wetrjñag kjadf 
 //		ad ad a asdsaghj tkytuit
+//		ad ad a asdsaghj tkytuit
+//		asdasda
+//		adsasdadasddddddd
+//		fgjk r wer wetrjñag kjadf 
+//		ad ad a asdsaghj tkytuit
 	}
 	
 	public Boolean getCustomerById(int id) {
