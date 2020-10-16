@@ -36,6 +36,23 @@ public class ClienteService {
 		list = rest.findByNombre(nombre);
 
 		return objectMapper.writeValueAsString(list);
+		
+//		asdasda
+//		adsasdadasddddddd
+//		fgjk r wer wetrjñag kjadf 
+//		ad ad a asdsaghj tkytuit
+//		asdasda
+//		adsasdadasddddddd
+//		fgjk r wer wetrjñag kjadf 
+//		ad ad a asdsaghj tkytuit
+//		asdasda
+//		adsasdadasddddddd
+//		fgjk r wer wetrjñag kjadf 
+//		ad ad a asdsaghj tkytuit
+//		asdasda
+//		adsasdadasddddddd
+//		fgjk r wer wetrjñag kjadf 
+//		ad ad a asdsaghj tkytuit
 	}
 	
 	public Boolean getCustomerById(int id) {
