@@ -34,7 +34,7 @@ public class ProductService {
 		return objectMapper.writeValueAsString(list);
 	}
 	
-	public Boolean getProductById(int id) {
+	public Boolean getId(int id) {
 
 		List<Productos> list = new ArrayList<>();
 		list = rest.findByIdProducto(id);
